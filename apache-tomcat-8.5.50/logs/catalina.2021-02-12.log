@@ -1,0 +1,87 @@
+12-Feb-2021 15:13:35.885 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.50
+12-Feb-2021 15:13:36.031 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 19:19:46 UTC
+12-Feb-2021 15:13:36.031 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.50.0
+12-Feb-2021 15:13:36.032 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Feb-2021 15:13:36.032 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Feb-2021 15:13:36.032 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Feb-2021 15:13:36.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\jessi\Codenation\openjdk\jdk-14.0.1
+12-Feb-2021 15:13:36.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.1+7
+12-Feb-2021 15:13:36.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2021 15:13:36.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:13:36.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:13:36.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2021 15:13:36.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2021 15:13:36.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2021 15:13:36.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Jenkins\apache-tomcat-8.5.50\conf\logging.properties
+12-Feb-2021 15:13:36.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2021 15:13:36.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2021 15:13:36.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2021 15:13:36.041 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2021 15:13:36.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:13:36.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:13:36.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Jenkins\apache-tomcat-8.5.50\temp
+12-Feb-2021 15:13:36.052 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Users\jessi\Codenation\openjdk\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\jessi\Downloads\node-v12.18.0-win-x64\node-v12.18.0-win-x64\node_modules\npm;C:\Program Files\nodejs\;C:\Users\jessi\Codenation\openjdk\jdk-14.0.1\bin;C:\Users\jessi\Codenation\gradle-6.5\bin;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\jessi\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\jessi\Codenation\openjdk\jdk-14.0.1\bin;C:\Users\jessi\AppData\Local\Microsoft\WindowsApps;C:\Users\jessi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Users\jessi\Downloads\node-v12.18.0-win-x64\node-v12.18.0-win-x64\node_modules\npm;C:\Users\jessi\AppData\Roaming\npm;C:\Users\jessi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jessi\Codenation;C:\Users\jessi\AppData\Local\GitHubDesktop\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+12-Feb-2021 15:13:38.310 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8001"]
+12-Feb-2021 15:13:46.092 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Feb-2021 15:13:46.334 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Feb-2021 15:13:46.339 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Feb-2021 15:13:46.342 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 14236 ms
+12-Feb-2021 15:13:49.399 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2021 15:13:49.400 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.50
+12-Feb-2021 15:13:49.917 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\docs]
+12-Feb-2021 15:13:56.095 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [110] milliseconds.
+12-Feb-2021 15:13:56.320 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\docs] has finished in [6,404] ms
+12-Feb-2021 15:13:56.321 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\examples]
+12-Feb-2021 15:13:59.370 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\examples] has finished in [3,049] ms
+12-Feb-2021 15:13:59.370 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\host-manager]
+12-Feb-2021 15:13:59.644 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\host-manager] has finished in [274] ms
+12-Feb-2021 15:13:59.645 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\manager]
+12-Feb-2021 15:13:59.937 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\manager] has finished in [291] ms
+12-Feb-2021 15:13:59.938 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\ROOT]
+12-Feb-2021 15:14:00.004 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\ROOT] has finished in [67] ms
+12-Feb-2021 15:14:00.036 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8001"]
+12-Feb-2021 15:14:00.078 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Feb-2021 15:14:00.104 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 13761 ms
+12-Feb-2021 15:33:36.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.50
+12-Feb-2021 15:33:36.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 19:19:46 UTC
+12-Feb-2021 15:33:36.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.50.0
+12-Feb-2021 15:33:36.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Feb-2021 15:33:36.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Feb-2021 15:33:36.843 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Feb-2021 15:33:36.843 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\jessi\Codenation\openjdk\jdk-14.0.1
+12-Feb-2021 15:33:36.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.1+7
+12-Feb-2021 15:33:36.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Feb-2021 15:33:36.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:33:36.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:33:36.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Feb-2021 15:33:36.848 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Feb-2021 15:33:36.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Feb-2021 15:33:36.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Jenkins\apache-tomcat-8.5.50\conf\logging.properties
+12-Feb-2021 15:33:36.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Feb-2021 15:33:36.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Feb-2021 15:33:36.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Feb-2021 15:33:36.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Feb-2021 15:33:36.855 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:33:36.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Jenkins\apache-tomcat-8.5.50
+12-Feb-2021 15:33:36.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Jenkins\apache-tomcat-8.5.50\temp
+12-Feb-2021 15:33:36.858 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Users\jessi\Codenation\openjdk\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\jessi\Downloads\node-v12.18.0-win-x64\node-v12.18.0-win-x64\node_modules\npm;C:\Program Files\nodejs\;C:\Users\jessi\Codenation\openjdk\jdk-14.0.1\bin;C:\Users\jessi\Codenation\gradle-6.5\bin;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\jessi\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\jessi\Codenation\openjdk\jdk-14.0.1\bin;C:\Users\jessi\AppData\Local\Microsoft\WindowsApps;C:\Users\jessi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7;C:\Users\jessi\Downloads\node-v12.18.0-win-x64\node-v12.18.0-win-x64\node_modules\npm;C:\Users\jessi\AppData\Roaming\npm;C:\Users\jessi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jessi\Codenation;C:\Users\jessi\AppData\Local\GitHubDesktop\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+12-Feb-2021 15:33:36.921 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8001"]
+12-Feb-2021 15:33:37.005 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Feb-2021 15:33:37.024 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Feb-2021 15:33:37.030 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Feb-2021 15:33:37.032 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 790 ms
+12-Feb-2021 15:33:37.093 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Feb-2021 15:33:37.093 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.50
+12-Feb-2021 15:33:37.116 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\docs]
+12-Feb-2021 15:33:37.549 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\docs] has finished in [433] ms
+12-Feb-2021 15:33:37.551 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\examples]
+12-Feb-2021 15:33:38.234 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\examples] has finished in [682] ms
+12-Feb-2021 15:33:38.234 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\host-manager]
+12-Feb-2021 15:33:38.305 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\host-manager] has finished in [71] ms
+12-Feb-2021 15:33:38.306 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\manager]
+12-Feb-2021 15:33:38.368 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\manager] has finished in [61] ms
+12-Feb-2021 15:33:38.368 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\ROOT]
+12-Feb-2021 15:33:38.414 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Jenkins\apache-tomcat-8.5.50\webapps\ROOT] has finished in [46] ms
+12-Feb-2021 15:33:38.420 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8001"]
+12-Feb-2021 15:33:38.457 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Feb-2021 15:33:38.481 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1448 ms
